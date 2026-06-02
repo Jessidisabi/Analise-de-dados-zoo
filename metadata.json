@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Correlações e Relatórios IA",
+  "description": "Dashboard interativo para análise de correlações corporativas, geração de relatórios PDF, mapas mentais e apresentações com Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
